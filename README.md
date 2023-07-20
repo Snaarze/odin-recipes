@@ -1,2 +1,2 @@
 # odin-recipes
-First Project on HTML
+Creating my first Website Using HTML designing it about recipes!
