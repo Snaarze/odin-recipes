@@ -1,0 +1,47 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.body {
+    width: 1920px;
+    height: 1080px;
+    
+}
+
+.div-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcyan;
+    
+}
+
+.div-content {
+    width: 500px;
+    border: solid;
+    background-color: lightblue;
+}
+
+.bang-sauce{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+.bang-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 480px;
+}
+
+.time-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-gap: 15px;
+}
